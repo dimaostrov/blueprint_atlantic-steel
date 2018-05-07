@@ -57,6 +57,10 @@ img {
   position: fixed;
   top: 0;
   width: 100%
+}
+
+.bt-spacing {
+  margin: 0.5rem;
 }@charset "UTF-8";
 /*!
 
